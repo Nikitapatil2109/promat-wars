@@ -1,0 +1,6 @@
+{
+  "name": "EcoMind AI — Secure Enterprise Sustainability & ESG Platform",
+  "description": "Production-hardened enterprise sustainability, carbon accounting, and ESG governance platform with cryptographic audit chains, multi-tenant isolation, and verified AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
